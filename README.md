@@ -11,9 +11,11 @@ proyectos y mis intereses.
 * Nombre: Ronald Gaibor
 * Ocupación: Estudiante
 * Lugar de residencia: Guayaquil, Ecuador
-* Sitio web: https://rgaibor17.github.io/
+* Sitio web: [https://rgaibor17.github.io/](https://rgaibor17.github.io/rgaibor17/)
 ## Proyectos
-* [Lista de tus proyectos]
+* [Taller01-Snake](https://github.com/rgaibor17/Taller01-Snake)
+* [Taller02-AspectJ](https://github.com/rgaibor17/Taller02-AspectJ)
+* [Taller03-SOLID](https://github.com/jsbaidal/Taller03-SOLID)
 ## Intereses
 * [Lista de tus intereses]
 
