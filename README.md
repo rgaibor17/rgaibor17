@@ -22,11 +22,13 @@ proyectos y mis intereses.
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgaibor17&theme=merko&layout=donut" alt="Top Langs"/>
   </a>
 </div>
+</br>
 <div align="left">
   <a href="https://github.com/rgaibor17/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rgaibor17&theme=merko" alt="GitHub Stats"/>
   </a>
 </div>
+</br>
 <div align="left">
   <a href="https://git.io/streak-stats">
     <img height=200 align="center" src="https://streak-stats.demolab.com/?user=rgaibor17&theme=merko" alt="GitHub Streak"/>
