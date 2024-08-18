@@ -6,7 +6,7 @@ proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
-* [Intereses](#intereses)
+* [Info](#info)
 ## Información personal
 * Nombre: Ronald Gaibor
 * Ocupación: Estudiante
@@ -16,8 +16,22 @@ proyectos y mis intereses.
 * [Taller01-Snake](https://github.com/rgaibor17/Taller01-Snake)
 * [Taller02-AspectJ](https://github.com/rgaibor17/Taller02-AspectJ)
 * [Taller03-SOLID](https://github.com/jsbaidal/Taller03-SOLID)
-## Intereses
-* [Lista de tus intereses]
+## Info
+<div align="left">
+  <a href="https://github.com/rgaibor17/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgaibor17&theme=merko&layout=donut" alt="Top Langs"/>
+  </a>
+</div>
+<div align="left">
+  <a href="https://github.com/rgaibor17/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rgaibor17&theme=merko" alt="GitHub Stats"/>
+  </a>
+</div>
+<div align="left">
+  <a href="https://git.io/streak-stats">
+    <img height=200 align="center" src="https://streak-stats.demolab.com/?user=rgaibor17&theme=merko" alt="GitHub Streak"/>
+  </a>
+</div>
 
 <!--
 **rgaibor17/rgaibor17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
