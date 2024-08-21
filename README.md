@@ -3,8 +3,14 @@
 </div>
 
 # Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
+Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=rgaibor17&theme=merko" alt="GitHub Streak"/>
+  </a>
+</div>
+
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
@@ -19,21 +25,15 @@ proyectos y mis intereses.
 * [Taller02-AspectJ](https://github.com/rgaibor17/Taller02-AspectJ)
 * [Taller03-SOLID](https://github.com/jsbaidal/Taller03-SOLID)
 ## Información adicional
-<div align="left">
+<div align="center">
   <a href="https://github.com/rgaibor17/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgaibor17&theme=merko&layout=donut" alt="Top Langs"/>
   </a>
 </div>
 </br>
-<div align="left">
+<div align="center">
   <a href="https://github.com/rgaibor17/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=rgaibor17&theme=merko" alt="GitHub Stats"/>
-  </a>
-</div>
-</br>
-<div align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=rgaibor17&theme=merko" alt="GitHub Streak"/>
   </a>
 </div>
 
